@@ -18,7 +18,7 @@
 	"globalVarName": "bc_plugin_pbjs",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/prebid/cross-player-prebid-component.git"
+		"url": "https://github.com/aclrys/cross-player-prebid-component.git"
 	},
 	"license": "TBD",
 	"devDependencies": {

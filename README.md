@@ -33,7 +33,7 @@ A successful deployment of this component simply includes a successful build of 
 
 ## Install
 
-    $ git clone https://github.com/prebid/cross-player-prebid-component.git
+    $ git clone https://github.com/aclrys/cross-player-prebid-component.git
     $ cd cross-player-prebid-component
     $ npm install
 
@@ -151,9 +151,9 @@ Make sure the following paths are correct:
 
 SSPs and publishers may contribute to this project.
 
-For guidelines, see [Contributing](https://github.com/prebid/prebid-js-plugin-brightcove/tree/master/CONTRIBUTING.md).
+For guidelines, see [Contributing](https://github.com/aclrys/prebid-js-plugin-brightcove/tree/master/CONTRIBUTING.md).
 
-Our PR review process can be found [here](https://github.com/prebid/prebid-js-plugin-brightcove/tree/master/PR_REVIEW.md).
+Our PR review process can be found [here](https://github.com/aclrys/prebid-js-plugin-brightcove/tree/master/PR_REVIEW.md).
 
 ### Code Quality
 
@@ -185,4 +185,4 @@ The results will be in
 cross-player-prebid-component is supported on Internet Explorer 11+ and all modern browsers.
 
 ### Governance
-Review our governance model [here](https://github.com/prebid/cross-player-prebid-component/tree/master/governance.md).
+Review our governance model [here](https://github.com/aclrys/cross-player-prebid-component/tree/master/governance.md).

@@ -8,11 +8,11 @@ Additional details about the process can be found [here](./pr_review.md).
 
 ## Issues
 [prebid.org](http://prebid.org/) contains documentation that may help answer questions you have about using the Cross-Player Prebid Component.
-If you can't find the answer there, try searching for a similar issue on the [issues page](https://github.com/prebid/cross-player-prebid-component/issues).
-If you don't find an answer there, [open a new issue](https://github.com/prebid/cross-player-prebid-component/issues/new).
+If you can't find the answer there, try searching for a similar issue on the [issues page](https://github.com/aclrys/cross-player-prebid-component/issues).
+If you don't find an answer there, [open a new issue](https://github.com/aclrys/cross-player-prebid-component/issues/new).
 
 ## Documentation
-If you have a documentation issue or pull request, please open a ticket or PR in the [documentation repository](https://github.com/prebid/prebid.github.io).
+If you have a documentation issue or pull request, please open a ticket or PR in the [documentation repository](https://github.com/aclrys/prebid.github.io).
 
 ## Writing Tests
 
